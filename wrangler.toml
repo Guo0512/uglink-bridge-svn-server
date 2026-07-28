@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://dxp4800-gjd.cn56.ug.link/"
 PORT = "3690"
-USERNAME = "dxp4800-gjd"
+USERNAME = "Guojiaodi"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
